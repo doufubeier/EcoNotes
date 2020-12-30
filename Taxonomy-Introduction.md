@@ -2,7 +2,7 @@
 
 ## 分类学定义 taxonomy
 
-![image](https://github.com/doufubeier/EcoNotes/tree/main/figures/taxonomy_system.JPG)
+![image](https://github.com/doufubeier/EcoNotes/tree/main/figures/taxonomy_system.jpg)
 
 （from Tod F. Stuessy, Plant Taxonomy, 2009)
 
@@ -20,7 +20,7 @@
 
 单系原则
 
-![image](https://github.com/doufubeier/EcoNotes/tree/main/figures/phylogenetic_tree.JPG)
+![image](https://github.com/doufubeier/EcoNotes/tree/main/figures/phylogenetic_tree.jpg)
 
 2. 第二步：大分子测序（DNA，也可用RNA或蛋白质）
 
