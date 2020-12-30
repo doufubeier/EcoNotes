@@ -1,15 +1,14 @@
 # 今天的分类学在做什么？（作者：刘夙）
 ## 分类学定义 taxonomy
-![image](https://github.com/)
+![image](https://github.com/doufubeier/EcoNotes/tree/main/figures/taxonomy_system.JPG)
 （from Tod F. Stuessy, Plant Taxonomy, 2009)
-
 ## 分类学的主要内容
 分类学主要的工作是分类，而不是鉴定（所谓的认花认草）。分类的两个基本过程：第一是把个体编组为类群（to group）；第二是把分类群评定到分类等级系统中的合适等级（to rank）。由此，建立分类系统。
 ## 当今分类学家建立的分类系统的主要方法（分子支序学 molecular cladistics）
 1. 第一步：支序学 cladistics
 意义：确定了什么样的分类群是有意义丶值得研究和命名的
 单系原则
-![](%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%88%86%E7%B1%BB%E5%AD%A6%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F%EF%BC%88%E4%BD%9C%E8%80%85%EF%BC%9A%E5%88%98%E5%A4%99%EF%BC%89/%E7%85%A7%E7%89%87%202020%E5%B9%B412%E6%9C%8828%E6%97%A5%20%E4%B8%8B%E5%8D%8825436.jpg)
+![image](https://github.com/doufubeier/EcoNotes/tree/main/figures/phylogenetic_tree.JPG)
 2. 第二步：大分子测序（DNA，也可用RNA或蛋白质）
 提供了判定不同分类群彼此亲缘关系的最可靠证据
 需要依赖高深的数学理论（主要是通过随机过程理论）和高超的编程技术
