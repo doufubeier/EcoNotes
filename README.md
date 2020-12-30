@@ -6,7 +6,7 @@
 ## Botany
 
 - [ ] Taxonomy
-    - [x] [今天的分类学在做什么](/EcoNotes/blob/main/Taxonomy-Introduction.md)
+    - [x] [今天的分类学在做什么](/Taxonomy-Introduction.md)
 
 ## Ecology
 
