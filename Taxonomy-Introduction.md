@@ -1,8 +1,9 @@
-# 今天的分类学在做什么？（作者：刘夙）
+# [今天的分类学在做什么？](https://mp.weixin.qq.com/s/jb0ggBubF8EKSisJ1zTkog)（作者：刘夙）
 
 ## 分类学定义 taxonomy
 
-![](figures/taxonomy_system.jpg)
+<!--- ![](figures/taxonomy_system.jpg) --->
+<img src="figures/taxonomy_system.jpg" width="60%" alt="分类学系统">
 
 （from Tod F. Stuessy, Plant Taxonomy, 2009)
 
@@ -20,7 +21,8 @@
 
 单系原则
 
-![](figures/phylogenetic_tree.jpg)
+<!--- ![](figures/phylogenetic_tree.jpg) --->
+<img src="figures/phylogenetic_tree.jpg" width="60%" alt="系统发育树">
 
 2. 第二步：大分子测序（DNA，也可用RNA或蛋白质）
 
@@ -62,3 +64,7 @@
 * 扩展：把绿藻丶红藻以及现在不属于植物的其他藻类包括进来
 
 * 更新教科书
+
+# 扩展资源
+
+* 上海辰山植物园: [多识植物百科](http://duocet.ibiodiversity.net/index.php?title=%E9%A6%96%E9%A1%B5)

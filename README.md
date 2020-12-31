@@ -1,5 +1,14 @@
-# EcoNotes
-any piecemeal notes about ecology
+
+一点有关生态学、植物学有趣的零散笔记
+
 # To Do List
-- [x] Taxonomy
-- [ ] Urban Ecology
+
+## Botany
+
+- [ ] Taxonomy
+    - [x] [今天的分类学在做什么](/Taxonomy-Introduction.md)
+
+## Ecology
+
+- [ ] Landscape Ecology
+    - [ ] Urban Ecology
