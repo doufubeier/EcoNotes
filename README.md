@@ -1,7 +1,7 @@
 
 一点有关生态学、植物学有趣的零散笔记
 
-# To Do List
+# Study List
 
 ## Botany
 
@@ -12,3 +12,5 @@
 
 - [ ] Landscape Ecology
     - [ ] Urban Ecology
+
+## Note
